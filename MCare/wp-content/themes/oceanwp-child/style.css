@@ -1,0 +1,17 @@
+/*
+Theme Name: Ocean wp child
+Theme URI: Hentet
+Template: oceanwp
+Author: Sebastian
+Author URI:
+Tags: two-columns, right-sidebar, footer-widgets, blog, news, custom-background, custom-menu, post-formats, rtl-language-support, sticky-post, editor-style, threaded-comments, translation-ready, buddypress, custom-colors, featured-images, full-width-template, theme-options, e-commerce
+
+ <span class="elementor-button-text">Portfolie</span>
+*/
+
+
+
+.elementor-slidein {
+	-webkit-animation: slide-left 0.5s ease-in both;
+	        animation: slide-left 0.5s ease-in both;
+}
